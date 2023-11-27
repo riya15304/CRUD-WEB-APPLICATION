@@ -1,0 +1,89 @@
+.employees-table{
+    border-radius: 2px;
+}
+.list{
+    background: rgb(247, 245, 245);
+    width: 750px;
+    margin-left: 0px;
+    height:280px;
+}
+th{
+    height: 40px;
+}
+form{
+    border: 1px solid black;
+    background: rgb(244, 243, 245);
+    height: 450px;
+    margin-top: -300px;
+}
+#AS{
+    width: 400px;
+    height: 300px;
+    margin-left: 800px;
+    margin-top: -290px;
+}
+td{
+    text-align: center;
+}
+.aa{
+    width: 300px;
+    margin: auto;
+    height: 400px;
+}
+.e{
+    margin: auto;
+    width: 100px;
+    margin-top: 20px;
+}
+.e input{
+    text-align: center;
+    background: #149ddd;
+    border: 0;
+    padding: 10px 24px;
+    color: #fff;
+    transition: 0.4s;
+    border-radius: 4px;
+    font-size: 17px;
+}
+.emp h2{
+    text-align: center;
+}
+.a label{
+    font-size: 20px;
+}
+.a input{
+    width: 280px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    height: 25px;
+}
+.b label{
+    font-size: 20px;
+}
+.b input{
+    width: 280px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    height: 25px;
+}
+.c label{
+    font-size: 20px;
+    
+}
+.c input{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 280px;
+    height: 25px;
+}
+.d label{
+    font-size: 20px;
+    
+}
+.d input{
+    margin-top: 5px;
+    width: 280px;
+    margin-bottom: 5px;
+    height: 25px;
+}
+
