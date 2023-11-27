@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>
+        CRUD WEB APPLICATION
+    </title>
+</head>
+
+<body>
+    <div class="employee-form">
+        <form onsubmit="event.preventDefault();onFormSubmit();" autocomplete="off">
+            <div>
+                <label>Full Name</label>
+                <input type="text" name="fullName" id="fullName" required>
+            </div>
+            <div>
+                <label>Roll No</label>
+                <input type="numeric" name="rollNo" id="rollNo" required>
+            </div>
+            <div>
+                <label>Branch</label>
+                <input type="text" name="branch" id="branch" required>
+            </div>
+            <div>
+                <label>Batch</label>
+                <input type="text" name="batch" id="batch" required>
+            </div>
+            <div class="form-action-buttons">
+                <input type="submit" value="Submit">
+            </div>
+        </form>
+    </div>
+    
+</body>
+
+</html>
